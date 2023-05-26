@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alexdima02" alt="alexdima02" /></a> </p>
 
-- 🔭 I’m currently working on [Forum](https://curiosity-forum.netlify.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
